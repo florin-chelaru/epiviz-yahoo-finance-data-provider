@@ -1,0 +1,1 @@
+epiviz.EpiViz.SETTINGS.dataProviders.push('epiviz.plugins.data.YahooFinanceDataProvider');
